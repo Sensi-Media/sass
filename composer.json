@@ -14,5 +14,8 @@
         "psr-4": {
             "Codger\\Sensi\\": "./src"
         }
+    },
+    "require-dev": {
+        "codger/generate": "^0.9.5"
     }
 }
