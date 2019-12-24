@@ -9,5 +9,10 @@
             "email": "marijn@sensimedia.nl"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload-dev": {
+        "psr-4": {
+            "Codger\\Sensi\\": "./src"
+        }
+    }
 }
