@@ -1,2 +1,2 @@
-# sass
+# sensi/sass
 SASS generation recipe
