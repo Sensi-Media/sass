@@ -1,0 +1,13 @@
+{
+    "name": "sensi/codger-sass",
+    "description": "SASS generation recipe",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Marijn Ophorst",
+            "email": "marijn@sensimedia.nl"
+        }
+    ],
+    "require": {}
+}
