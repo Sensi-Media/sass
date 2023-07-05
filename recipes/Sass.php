@@ -7,7 +7,7 @@ use Twig\{ Environment, Loader\FilesystemLoader };
 
 class Sass extends Recipe
 {
-    protected $_template = 'sass.html.twig';
+    protected string $_template = 'sass.html.twig';
 
     public function __invoke(string $namespace) : void
     {
